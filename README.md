@@ -1,6 +1,8 @@
-# Mechanical-Engineering-Design
-Dr. Karen Abrinia \\
-My Contributers: Peyman Sobhani, Amirhossein Ghazanfarian, Amirreza Moharrami, Sepehr Pourkhavari, Emad Gohari
+### Mechanical-Engineering-Design
+# Instructor
+Dr. Karen Abrinia 
+# My contributers
+Peyman Sobhani, Amirhossein Ghazanfarian, Amirreza Moharrami, Sepehr Pourkhavari, Emad Gohari
 <!-- Project Logo and Title -->
 ![Plastic Milling Machine](https://img.shields.io/badge/Project-Plastic_Milling_Machine-blue?style=for-the-badge&logo=github)
 
@@ -36,6 +38,8 @@ The Finite Element Method (FEM) was used to analyze stresses and performance of 
 ![Shaft FEM Analysis](./Shaft_FEM.PNG)
 ![Gears FEM Analysis](./Gears_FEM.PNG)
 ![Frame FEM Analysis](./Frame_FEM.PNG)
+
+
 
 
 
